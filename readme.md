@@ -20,3 +20,9 @@
 * git log - все комиты по списку
 * git branch - список всех веток
 * git branch new_branch - создание новой ветви
+ * git branch -d (D) new-branch - удаляет ветку
+ * git branch -m new-name-branch - переименовывает  ветку
+ * git checkout - переключение между ветками
+ * git merge 
+ * git clone
+ * git diff 
